@@ -1,0 +1,47 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+ .cima{
+     display: flex;
+     justify-content: space-between;
+     align-items: center;
+     color: gray;
+   text-align: center;
+  
+   height: 100px;
+ }
+
+ h1{
+     color: black;
+     font-weight: 900;
+ }
+
+ .menu{
+     display: flex;
+     gap: 32px;
+     text-align: end;
+
+ }
+
+ 
+ .botao {
+    text-align: center;
+     background-color: white; 
+    width: 180px;
+    font-size: 17px;
+    font-weight: 600;
+    color: rgb(0, 0, 0);
+    border-radius: 32px;
+    padding: 21.5px 0px;
+    text-decoration: none;
+    border: 2px inset black;
+
+}
+.p{
+    text-align: center;
+    right: 20cm;
+}
